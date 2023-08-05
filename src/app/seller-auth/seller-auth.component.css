@@ -1,0 +1,46 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+    margin-top: 70px;
+}
+
+form{
+    text-align: center;
+   display: flex;
+   flex-direction: column;
+   width: 200px;
+   margin-left: 500px;
+   
+  }
+  input{
+    height: 30px;
+    width: 300px;
+    border:2px solid blueviolet;
+    margin-bottom: 20px;
+    padding-left: 10px;
+   
+   
+  }
+  button{
+    height: 40px;
+    width: 100px;
+    margin-left: 100px;
+    border: 3px solid blueviolet;
+    
+  }
+  .siup{
+    
+    color:blueviolet;
+    cursor: pointer;
+   
+    
+    
+    margin-top: 20px;}
+    
+  .pd{
+    color:blueviolet;
+    cursor: pointer;
+    
+    margin-top: 20px;
+    
+  }
